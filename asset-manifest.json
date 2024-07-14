@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RushikeshNandan/telegram-replica/static/css/main.e6c13ad2.css",
+    "main.js": "/RushikeshNandan/telegram-replica/static/js/main.ea87bdcb.js",
+    "static/js/453.bcc30230.chunk.js": "/RushikeshNandan/telegram-replica/static/js/453.bcc30230.chunk.js",
+    "index.html": "/RushikeshNandan/telegram-replica/index.html",
+    "main.e6c13ad2.css.map": "/RushikeshNandan/telegram-replica/static/css/main.e6c13ad2.css.map",
+    "main.ea87bdcb.js.map": "/RushikeshNandan/telegram-replica/static/js/main.ea87bdcb.js.map",
+    "453.bcc30230.chunk.js.map": "/RushikeshNandan/telegram-replica/static/js/453.bcc30230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea87bdcb.js"
+  ]
+}
